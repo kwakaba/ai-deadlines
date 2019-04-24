@@ -1,9 +1,13 @@
 ---
-- name: Embedded Systems (General)
-  sub: ES
-- name: Timing Analysis
-  sub: TA
-- name: Computer Architecture
-  sub: CA
-- name: Low Power
-  sub: LP
+- name: Machine Learning
+  sub: ML
+- name: Computer Vision
+  sub: CV
+- name: Natural Language Proc
+  sub: NLP
+- name: Robotics
+  sub: RO
+- name: Speech/SigProc
+  sub: SP
+- name: Data Mining
+  sub: DM
